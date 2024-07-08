@@ -7,4 +7,4 @@ I have tried to keep the notes as concise as possible. I have also included link
 I hope that this book will help you in your preparation for interviews.
 
 ## Table of Contents
-- [Zeotap Interview Questions](zeotap.md)
+- [Zeotap Interview Questions](Zeotap.md)
